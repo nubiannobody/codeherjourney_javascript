@@ -6,4 +6,4 @@ const rectangleArea = (width, height) => {
     return area;
 };
 
-console.log(rectangleArea(5,3)); // 15
+rectangleArea(5,3); // 15
